@@ -1,3 +1,4 @@
+//circuit link: https://www.tinkercad.com/things/3BHwouMvs0C
 int buzzPin=8;
 int potPin=A3;
 int potVal;
