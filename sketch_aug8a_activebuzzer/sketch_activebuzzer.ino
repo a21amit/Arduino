@@ -1,3 +1,4 @@
+//ciruit link : https://www.tinkercad.com/things/lnq3unecgFN
 int buzzPin=13;
 int myNUm;
 String msg="input your number: ";
